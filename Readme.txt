@@ -4,11 +4,15 @@ This model (developed using LabVIEW) predicts the performance of forward osmosis
 
 System Requirements:
 
-	Windows 7 SP1 or later
-	1 GB RAM
-	1 GB Disk space
+Windows 7 SP1 or later - Mac OS 10.14 or later
+1 GB RAM
+1 GB Disk space
 
-For more details about the model, please refer to the following Journal Publication:
+Installation - Windows:
+Unzip file FO_Model_WIndows_Installer.zip
+Run file: FO_model_install.exe and follow on-screen instructions
 
-Joel Minier-Matar, Mashael Al-Mass, Dareen Dardor, Arnold Janson, Mustafa S. Nasser, Samer Adham. Osmotic Concentration for Volume Reduction of Industrial Process Water: Membranes Screening and Operation Optimization. Water Research, 2020: In review.
-
+Installation - Mac OS:
+Unzip file FO_Model_Mac.zip
+Install LabVIEW Runtime: LabVIEW_Runtime_2020.dmg
+Open folder FO_Model and Run app: FO_Model
